@@ -11,3 +11,48 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.film-list a{
+  text-decoration: none;
+  color: #4777A7;
+  /* font-style: bold; */
+
+}
+
+h2 {
+  font-size: 20px;
+  font-weight:normal;
+  margin-top: 2px;
+  margin-bottom: 3px;
+}
+
+.upcoming-film {
+  background-color: #F2F1EF;
+  width: 350px;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 10px;
+}
+.film-list {
+  border-bottom:1px solid #b1b7b7;
+  border-top:1px solid #b1b7b7;
+  padding-top: 10px;
+}
+.film-list li {
+  padding-bottom: 15px;
+}
+
+.more a {
+  text-decoration: none;
+  color: #4777A7;
+  font-size: 20px;
+  
+}
+
+.more {
+  margin-bottom: 0px;
+  border: 1px solid black;
+  background-color: #a1c5df;
+  padding: 15px;
+  margin-top: 2px;
+}
